@@ -85,7 +85,7 @@ public class principal {
         } catch (InputMismatchException e) {
 
             System.out.println(
-                    "El dato que ingresado no es correcto."
+                    
             );
 
             leer.close();
