@@ -79,7 +79,7 @@ public class principal {
             );
 
             System.out.println(
-                    "Estudiante registrado correctamente."
+                "Estudiante registrado correctamente en el sistema."
             );
 
         } catch (InputMismatchException e) {
